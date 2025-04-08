@@ -40,11 +40,11 @@ Antes de executar o código, certifique-se de ter instalado:
 
 ## 📊 Principais Resultados
 
-Na pesquisa a presença de somente 10 países, portanto, ao avistar um conjunto de dados maior, os resultados possam ser diferentes.
+Na pesquisa há presença de somente 10 países, portanto, ao avistar um conjunto de dados maior, os resultados podem ser diferentes.
 
-### 🔹 **Top 6 Países Mais Felizes, mostrando no Hanking o Brasil**
+### 🔹 **Países Mais Felizes**
 
-Os 6 países mais felizes apresentam um conjunto robusto de características em comum: altos níveis de PIB per capita, excelente apoio social, expectativa de vida elevada, liberdade de escolha individual, baixa percepção de corrupção e generosidade social.
+Os 6 países mais felizes apresentam um conjunto robusto de características em comum: altos níveis de PIB per capita, excelente apoio social, expectativa de vida elevada, liberdade de escolha individual, baixa percepção de corrupção e generosidade social de acordo com pesquisas feitas para tal afirmação.
 
 1. Finlândia
 2. Dinamarca
@@ -53,7 +53,7 @@ Os 6 países mais felizes apresentam um conjunto robusto de características em 
 5. Suíça
 6. Holanda
    
-➡ O Brasil não ocupa nenhuma posição nas respostas de paises felizes, em relação aos paises que mais demosntraram esta feliz, sendo assim mostra um desempenho ruim. O país possui pontos negativos em aspectos sociais e culturais, desafios como desigualdade econômica, violência urbana e instabilidade política ainda impactam a percepção geral de felicidade.
+➡ O Brasil não ocupa nenhuma posição nas respostas de paises felizes, sendo assim mostra um desempenho ruim. 
 
 ### 🔹 **Top 2 Países Menos Felizes**
 
@@ -62,7 +62,7 @@ Os países nas últimas posições enfrentam severas dificuldades sociais e econ
 1. Brasil
 2. Germany
    
-➡ O Brasil, lidera o Hanking de paises meno felizes da pesquisa, trazendo assim visibilidade negativa no que se refere a felicidade. Pontos como, infraestrutura, saneamento básico, hospitalidade, cultura, deixam claro que há a possibilidade de melhora, trazendo o Brasil para outra realidade em Hanking futuros.
+➡ O Brasil, lidera o Hanking de paises meno felizes da pesquisa, trazendo assim visibilidade negativa no que se refere a felicidade. Pontos como, infraestrutura, saneamento básico, hospitalidade, aspectos sociais e culturais, desafios como desigualdade econômica, violência urbana e instabilidade política ainda impactam a percepção geral de felicidade. O bom desempenho nesses quesitos deixam claro que há possibilidade de melhora, trazendo o Brasil para outra realidade em Hanking futuros. 
 
 ![myplot](https://github.com/user-attachments/assets/4d2d52a9-d1c5-4c80-9d56-f7273581a1f0)
 
